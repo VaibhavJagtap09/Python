@@ -14,4 +14,4 @@ print("The area of the rectangle is %0.2f" %Area)
 #Area of circle
 r=float(input("Enter the radius"))
 Area=3.14*r*r
-print("The area of the rectangle is %0.2f" %Area)
+print("The area of the circle is %0.2f" %Area)
