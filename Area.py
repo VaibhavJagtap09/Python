@@ -15,3 +15,8 @@ print("The area of the rectangle is %0.2f" %Area)
 r=float(input("Enter the radius"))
 Area=3.14*r*r
 print("The area of the circle is %0.2f" %Area)
+
+#Area of Square 
+s = float ( input (" Enter side : ") ) 
+Area=s*s
+print("The Area of Square is %0.2f" %Area)
